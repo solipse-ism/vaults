@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Projects/CS/Computer Architecture and Hardware.md",
+                "file": "Computer Science.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "27943c6ea371744f",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Projects/CS/Computer Architecture and Hardware.md",
+                "file": "Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,26 +116,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-save:Remotely Save": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "notion-like-tables:Create loom": false,
       "webpage-html-export:Export Vault to HTML": false,
       "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "remotely-secure:Remotely Sync": false
     }
   },
   "active": "691cd0943c3ecb96",
   "lastOpenFiles": [
-    "1 Projects/CS/Attachment/MaIn Hardware Concept.svg",
+    "Physic.md",
+    "Quick Notes.md",
     "1 Projects/CS/Computer Architecture and Hardware.md",
+    "Attachment/Pasted image 20240208200659.png",
+    "1 Projects/CS/Attachment/MaIn Hardware Concept.svg",
     "Computer Science.md",
     "1 Projects/CS/Data Representation and Structure.md",
-    "Quick Notes.md",
     "1 Projects/CS/Communication.md",
-    "Attachment/Pasted image 20240208200659.png",
     "Attachment",
-    "Physic.md",
     "1 Projects/CS/Attachment/HDD Internal Structure.png",
     "1 Projects/Conceptual Phsyic/Mechanic.md",
     "1 Projects/Conceptual Phsyic/Property of Matter.md",
