@@ -1,0 +1,6 @@
+[[Programming Paradigms]]
+[[Computational Thinking]]
+[[Communication]]
+[[Computer Architecture and Hardware]]
+[[Data Representation and Structure]]
+[[Cybersecurity]]

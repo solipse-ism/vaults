@@ -1,0 +1,160 @@
+{
+  "markdown:add-metadata-property": [],
+  "workspace:close-window": [],
+  "obsidian-editor-shortcuts:deleteLine": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "file-explorer:new-file-in-new-pane": [],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-7": [],
+  "workspace:goto-tab-6": [],
+  "workspace:goto-tab-8": [],
+  "workspace:new-tab": [],
+  "app:open-help": [],
+  "editor:open-link-in-new-leaf": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "app:go-back": [],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "app:go-forward": [],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
+  ],
+  "editor:toggle-fold": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:set-heading-2": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "editor:set-heading-3": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
+    }
+  ],
+  "editor:set-heading-4": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
+    }
+  ],
+  "editor:set-heading-5": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "4"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "J"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "K"
+    }
+  ],
+  "editor:add-cursor-above": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ],
+  "editor:add-cursor-below": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "J"
+    }
+  ],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "obsidian-outliner:fold": [],
+  "obsidian-outliner:unfold": [],
+  "editor:unfold-all": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-strikethrough": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ]
+}

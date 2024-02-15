@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "2e627af16f20d6c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "77418952ba700662",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f199df984ad8590a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physic.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "691cd0943c3ecb96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Projects/CS/Computer Architecture and Hardware.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "edcaff56affdcd7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "70475602bf20c40e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "365cbdd57dc1c4e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7c6463689173eb1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6bb20c000d6ba43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "27943c6ea371744f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d136263effbe7006",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b51e182bf4737190",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 Projects/CS/Computer Architecture and Hardware.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 451.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "notion-like-tables:Create loom": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "691cd0943c3ecb96",
+  "lastOpenFiles": [
+    "1 Projects/CS/Attachment/MaIn Hardware Concept.svg",
+    "1 Projects/CS/Computer Architecture and Hardware.md",
+    "Computer Science.md",
+    "1 Projects/CS/Data Representation and Structure.md",
+    "Quick Notes.md",
+    "1 Projects/CS/Communication.md",
+    "Attachment/Pasted image 20240208200659.png",
+    "Attachment",
+    "Physic.md",
+    "1 Projects/CS/Attachment/HDD Internal Structure.png",
+    "1 Projects/Conceptual Phsyic/Mechanic.md",
+    "1 Projects/Conceptual Phsyic/Property of Matter.md",
+    "1 Projects/Conceptual Phsyic/General Science.md",
+    "1 Projects/Computer Science/06 Security, Privacy and Data Integrity.md",
+    "1 Projects/CS/Programming Paradigms.md",
+    "1 Projects/CS/Cybersecurity.md",
+    "1 Projects/CS/Computational Thinking.md",
+    "1 Projects/Computer Science/05 System Software.md",
+    "1 Projects/Computer Science/03 Hardware.md",
+    "1 Projects/CS/Attachment/Pasted image 20240204211944.png",
+    "1 Projects/Computer Science/02 Communication OLD.md",
+    "1 Projects/Computer Science/02 Communication.md",
+    "1 Projects/Computer Science/01 Information Representation.md",
+    "1 Projects/CS/Attachment/Main Network Concept.svg",
+    "1 Projects/CS/Attachment",
+    "1 Projects/Conceptual Phsyic/Heat.md",
+    "1 Projects/Conceptual Phsyic/Sound.md",
+    "1 Projects/Conceptual Phsyic/Electricity and Magnetism.md",
+    "1 Projects/Conceptual Phsyic/Light.md",
+    "1 Projects/Conceptual Phsyic/Atomic and Nuclear Physic.md",
+    "1 Projects/CS",
+    "1 Projects/Computer Science/Attachment/01 Information Representation.pdf",
+    "1 Projects/Computer Science/Attachment/CS.pdf",
+    "1 Projects/What is Project.png",
+    "1 Projects/Conceptual Phsyic/Relativty.md",
+    "1 Projects/Conceptual Phsyic",
+    "1 Projects/Physics/03 Dynamics.md",
+    "1 Projects/Computer Science/Attachment/Network Topology.png",
+    "1 Projects/Computer Science/Attachment/Transmission Method.png",
+    "1 Projects/Computer Science/Attachment/Transmission Mode.png",
+    "1 Projects/Computer Science/Attachment/Waterfall Model.png",
+    "1 Projects/Learning Science",
+    "1 Projects/Keyboard Shortcut",
+    "1 Projects/Reverse Engineering/Books/The Shellcoder’s Handbook.pdf",
+    "1 Projects/Reverse Engineering/Books/The IDA Pro book The unofficial guide to the worlds most popular disassembler (Chris Eagle) (Z-Library).pdf"
+  ]
+}

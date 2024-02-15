@@ -1,0 +1,13 @@
+In the realm of system creation, some may contentedly reside within the confines of defaults, while others are drawn to the thrill of exploration, pushing boundaries to their limits. Picture yourself standing at the precipice of what seems like the "world boundary," where crossing it demands a profound understanding of the system's inner workings. How can one achieve this mastery?
+
+Let's discuss Reverse Engineering.
+
+In every computer system, the fundamental language spoken is binary – a series of 1s and 0s, representing the very essence of computation: on or off, electricity or no electricity. This binary language, known as machine code, comprises instructions that the CPU processes to execute tasks. While programmers can write these instructions in a nearly binary-like format using assembly language, the majority prefer the ease of coding in a more English-like syntax. The source code, created in a high-level language, is then translated into machine code for the computer to understand.
+
+However, this transformation poses a challenge. The resulting machine code is complex, cryptic, and harder to decipher than the original source code. Understanding the operations being performed underneath a program becomes a formidable task. This is where Reverse Engineering (RE) emerges as the key to unraveling the mysteries encoded in machine instructions.
+
+Reverse Engineering is the process of deconstructing the construction of source code by inspecting how a program functions in response to various inputs. While there are numerous techniques employed in RE, it's essential to delve into the motivations behind this meticulous process.
+
+Why is it necessary to comprehend the internal workings of a program? The answer lies in the ability to assert control over how a closed-sourced program utilises data, eliminate unnecessary and potentially problematic features, or, in an illegal and unethical context, obtain a paid program for free (commonly known as Software Cracking). However, it's crucial to emphasise the ethical implications and legal constraints associated with such practices.
+
+Performing RE is a multidisciplinary pursuit, requiring a deep understanding of various computing fields. It is instrumental in system and game hacking, software cracking, and other useful field. Prerequisites for diving into RE encompass knowledge of computer networking, assembly language and disassembler usage, and computer memory management. Even a foundational understanding of these components empowers individuals on the fascinating software cracking and hacking journey.

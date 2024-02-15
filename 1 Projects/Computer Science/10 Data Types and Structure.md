@@ -1,0 +1,36 @@
+- ## Data Types
+	- REAL INTEGER
+	- STRING CHAR
+	- DATE
+	- BOOLEAN
+	- ARRAY 
+	- FILE
+- Record Structure - hold set of data of different data types under one id
+- know
+	- pseudocode to define record structure
+	- pseudocode to read & save data from/to a record structure
+- ## Array
+- 1D/2D array
+- index - 
+- Upper bound - 
+- Lower bound -
+- ## Array Method
+	- Bubble Sort
+	- Linear Search
+- Know
+	- pseudocode for 1D and 2D array
+	- pseudocode to process array data
+- ## Files
+- Why files are need?
+-  Know how to handle text files with multiple lines
+- ## ADT, Abstract Data Types
+- ADT - Collection of data and set of operation on those data
+	- Stack
+		- Key Feature
+	- Queue
+		- Key Feature
+	- Linked List
+		- Key Feature
+- Know
+	-  how to add, edit and delete data from these structure
+	-  how a queue, stack and Linked list can be implement with array

@@ -1,0 +1,13 @@
+{
+  "accentColor": "#cfc6ec",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Iosevka",
+  "nativeMenus": false,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "Minimal"
+  ],
+  "baseFontSize": 23,
+  "textFontFamily": "Iosevka",
+  "monospaceFontFamily": "Iosevka"
+}

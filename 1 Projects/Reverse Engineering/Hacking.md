@@ -1,0 +1,50 @@
+Good thing to know
+- Networking
+	- Understanding network protocols and communication is crucial for analyzing and exploiting vulnerabilities.
+	- Importance: Many attacks, especially those in ethical hacking and penetration testing, involve interactions with network protocols.
+- Cyber Security
+	- Covers principles of securing systems and information against unauthorized access or attacks.
+	- Importance: A foundational knowledge of cybersecurity principles is essential for ethical hacking and understanding vulnerabilities.
+	- Cryptography
+		- Understanding encryption methods and cryptographic protocols is essential for securing information and exploiting vulnerabilities.
+	- Web Security
+	    - Given the prevalence of web-based applications, knowledge of web security principles, and common vulnerabilities like SQL injection and Cross-Site Scripting (XSS) is important.
+	- Malware Analysis
+		- Understanding how malware operates, its behavior, and methods for analysis is crucial for cybersecurity professionals.
+- Linux
+	- Proficiency in Linux is vital as many tools and platforms used in cybersecurity operate on Linux systems.
+	- Importance: Most servers and network devices run on Linux, and being comfortable with Linux is key for security professionals.
+- CLI
+	- Command-line skills are essential for efficient navigation and execution of tasks in a terminal.
+	- Importance: Many cybersecurity tools are command-line-based, and a strong CLI foundation enhances efficiency in tasks like scripting and automation.
+- Assembly language
+	- Understanding assembly language is crucial for analyzing and manipulating low-level code.
+	- Importance: Helps in reverse engineering, especially when dealing with compiled programs and understanding the inner workings of software.
+- using disassembler like IDA and Ghidra
+	- IDA Pro and Ghidra are powerful tools for reverse engineering, disassembling, and analyzing binary code.
+	- Importance: Essential for dissecting compiled programs, identifying vulnerabilities, and understanding software behavior at a low level.
+- Reverse engineer skills and how to practices them
+	- Involves methodologies for analyzing and understanding software behavior without access to its source code.
+	- Importance: Enables the identification of vulnerabilities, modification of software behavior, and development of security patches.
+- Computer Memory
+	- Understanding how computers manage and store data in memory is crucial for exploitation techniques.
+	- Importance: Many hacking and reverse engineering techniques involve manipulating and exploiting vulnerabilities in a program's memory.
+- Game: Cheat engine
+	- Knowledge of game engines is essential for understanding the security challenges in gaming environments.
+	- Importance: Gaming platforms present unique challenges, and knowledge of game engines is crucial for addressing security issues in this domain.
+- Forensics
+    - Knowledge of digital forensics principles is important for investigating and analyzing security incidents
+Practicing (CTF = capture the flag)
+- Hack The Box - hackthebox.eu
+- OverTheWire - overthewire.org
+- Root me - root-me.org
+- CTF365 - ctf365.com
+- PicoCTF - picoctf.org
+- Crackmes - crackmes.one
+sources
+- Reversing: Secrets of Reverse Engineering
+- Hacking: The Art of Exploitation
+- The Shellcoder’s Handbook
+- The Art of Assembly Language
+- Grey Hat Hacking
+- The IDA Pro Book
